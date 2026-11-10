@@ -1,2 +1,5 @@
-*.csv
-*.parquet
+ .venv/
+ __pycache__/
+ *.log
+ *.csv
+ *.parquet
